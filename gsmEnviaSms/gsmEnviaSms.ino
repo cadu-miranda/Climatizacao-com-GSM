@@ -33,10 +33,10 @@ void loop() {
   mySerial.println("AT+CMGF=1"); // Configurando modo de texto
   updateSerial();
   
-  mySerial.println("AT+CMGS=\"+5511977564400\""); // Número para mandar o SMS
+  mySerial.println("AT+CMGS=\"+0000000000000\""); // Número para mandar o SMS
   updateSerial();
  
-  mySerial.print("prj1.xyz/n.php?c");
+  mySerial.print("teste.teste/n.php?c");
   updateSerial();
   mySerial.print("=");
   updateSerial();
