@@ -10,6 +10,6 @@ Códigos feitos majoritariamoente para o back-end do nosso servidor e Website, f
 
 ->'?c=25&u=67' = Os valores de temperatura (ºC) e Umidade Relativa do Ar (%) que estão vindo através do sensor DHT11.
 
-![]( gsmEnviaSMS/image.png )
+![](image.png)
 
 # Contribuição dos códigos em PHP e HTML: Luan M. de Oliveira
