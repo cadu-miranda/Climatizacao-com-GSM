@@ -10,7 +10,7 @@ Códigos feitos majoritariamoente para o back-end do nosso servidor e Website, f
 
 ->'?c=25&u=67' = Os valores de temperatura (ºC) e Umidade Relativa do Ar (%) que estão vindo através do sensor DHT11.
 
-<img src="image.png" width="310" height="180"> 
+<img src="site.png" width="310" height="180"> 
 
 De acordo com os códigos e a imagem, definimos que para uma maior facilidade na integração com o Zabbix, precisaríamos definir que à temperatura seria atribuído o valor 1 e à umidade o valor 2.
                                                
