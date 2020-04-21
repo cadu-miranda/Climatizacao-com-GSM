@@ -1,6 +1,6 @@
 # gsmEnviaSMS
 
-Códigos feitos majoritariamoente para o back-end do nosso servidor e Website, facilitando o redirecionamento dos dados recebidos pelo SMS. Exemplo de output de SMS que será enviado ao servidor:
+Códigos feitos majoritariamente para o back-end do nosso servidor e Website, facilitando o redirecionamento dos dados recebidos pelo SMS. Exemplo de output de SMS que será enviado ao servidor:
 
 # teste.teste/n.php?c=25&u=67, onde:
 
