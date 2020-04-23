@@ -12,6 +12,4 @@ Códigos feitos majoritariamente para o back-end do nosso servidor e Website, fa
 
 <img src="site.png" width="310" height="180"> 
 
-De acordo com os códigos e a imagem, definimos que para uma maior facilidade na integração com o Zabbix, precisaríamos definir que à temperatura seria atribuído o valor 1 e à umidade o valor 2.
-                                               
-# Contribuição dos códigos em PHP e HTML: Luan M. de Oliveira
+De acordo com os códigos e a imagem, definimos que para uma maior facilidade na integração com o Zabbix, precisaríamos definir que à temperatura seria atribuído o valor 1 e à umidade o valor 2.                                            
