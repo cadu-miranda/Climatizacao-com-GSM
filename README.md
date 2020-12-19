@@ -1,4 +1,4 @@
-# gsmEnviaSMS
+# Climatizacao-com-GSM
 
 Códigos feitos majoritariamente para o back-end do nosso servidor e Website, facilitando o redirecionamento dos dados recebidos pelo SMS. Exemplo de output de SMS que será enviado ao servidor:
 
